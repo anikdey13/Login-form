@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* .reg-form-wrap{
+    width: 600px;
+    height: auto;
+    margin: auto;
+    background-color: blueviolet;
+} */
+.form-inner{
+    width: 400px;
+    height: auto;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgb(205, 205, 230);
+}
+.form-inner input {
+    display: block;
+    width: 80%;
+    padding: 10px 15px;
+    margin: 15px auto;
+    border-radius: 10px;
+    outline: none;
+    font-size: 16px;
+    border: 2px solid #ddd;
+    box-shadow: 2px 2px 5px #00bcd4;
+}
+
+.btn{
+    text-align: center;
+}
+.btn button {
+    width: 30%;
+    margin: 10px 10px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    background: #2196f3;
+    color: #fff;
+    border: 1px solid #ddd;
+    cursor: pointer;
+}
