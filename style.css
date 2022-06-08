@@ -32,13 +32,14 @@
     text-align: center;
 }
 .btn button {
-    width: 30%;
-    margin: 10px 10px;
+    width: 87%;
+    margin: 10px 25px 10px;
     padding: 10px;
     font-size: 16px;
-    border-radius: 5px;
+    border-radius: 10px;
     background: #2196f3;
     color: #fff;
     border: 1px solid #ddd;
     cursor: pointer;
+    display: block;
 }
